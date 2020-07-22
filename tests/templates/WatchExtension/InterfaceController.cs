@@ -9,8 +9,6 @@ using NUnit.Framework.Internal;
 using MonoTouch.NUnit.UI;
 using NUnit.Framework.Interfaces;
 
-using Xamarin.Tests;
-
 public static partial class TestLoader
 {
 	static partial void AddTestAssembliesImpl (BaseTouchRunner runner);
